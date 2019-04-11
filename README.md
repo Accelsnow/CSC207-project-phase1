@@ -2,7 +2,7 @@
 CSC207H1S final project phase 1
 
 ### PROJECT TITLE
-This is an simulation of a real-life ATM machine.
+This is an simulation of a real-life ATM machine. Main class src/Atm.java
 
 ### BANK MANGER
 Bank manager has default username "admin" and default password "CS207fun"
