@@ -41,3 +41,6 @@ Bank manager has default username "admin" and default password "CS207fun"
 - The program shuts down every day between 23:59 and 00:01. Between these times, you are unable to perform any actions.
 
 - After system restarts with a piece of information, you should follow that information and enter the restart key to restart the system.
+
+# Contributors
+Me (full structure design & implementations), tsao (terminal interactions), sheldon (file handling, debug testing), amanda (test writing)
